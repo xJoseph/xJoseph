@@ -2,7 +2,7 @@
 
 Eu sou Israel Joseph e estou lhe trazendo, de forma simples e resumida, o "estudo" da Linguagem de programação C.
 
-Então... Aponte seu lábis, prepare a caneta-tinteiro, arrume seu banquinho, coloque uma música relaxante de fundo e mãos ao estudo.
+Então... Aponte seu lápis, prepare a caneta-tinteiro, arrume seu banquinho, coloque uma música relaxante de fundo e mãos ao estudo.
 
 ## Surgimento
 
