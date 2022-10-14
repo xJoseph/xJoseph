@@ -65,16 +65,16 @@ Portanto como uma Boa Prática em todo arquivo deixarei, na sua introdução, es
 ### Programação
 
 Esse campo tem outro significado... 
+
 Quero dizer que você deve sempre se preparar antes de programar, se você simplesmente programar você vai programar sem rumo nenhum, sem nenhum objetivo, sem sentido.
 Então para qualquer programador você deve ter em mente:
 
 1) Entender o que quer fazer ou o problema a ser resolvido;
 2) Objetivos e pontos importantes que pretende alcançar;
 3) Metas para chegar no seu objetivo, como um passo a passo;
-4) Metas para chegar no seu objetivo, como um passo a passo;
-5) Definir a fonte dos dados;
-6) Definir as variáveis que serão utilizadas e seus tipos;
-7) Definir como vai executar/processar esses dados para gerar algum resultado de saída;
-8) Definir ou filtrar os dados de saída;
-9) Testar o código que criou; e
-10) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve re-analisar e corrigi-lo voltando 3-5 etapas.
+4) Definir a fonte dos dados;
+5) Definir as variáveis que serão utilizadas e seus tipos;
+6) Definir como vai executar/processar esses dados para gerar algum resultado de saída;
+7) Definir ou filtrar os dados de saída;
+8) Testar o código que criou; e
+9) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve re-analisar e corrigi-lo voltando 3-5 etapas.
