@@ -14,7 +14,7 @@ Resumidamento a linguagem C nos permite fazer diferentes aplicações, escritas 
 
 ## Conhecimentos Necessários
 
-Antes de partirmos para a prática devemos ter ciência de alguns detalhes, como:
+Antes de partirmos para o conteúdo da linguagem devemos ter conhecimento de algumas instruções essenciais, como:
 
 - Boas Práticas
 - Ferramentas
@@ -56,3 +56,25 @@ Acho que agora ficou bem claro o que é uma Boa Prática na programação:
 - Dar nomes coerentes as variáveis;
 - Usar os tipos de variáveis corretos para os valores que iram receber; e
 - Atribuição correta dos valores para as variáveis.
+
+### Ferramentas
+
+Não são teoricamente ou fisicamente ferramentas, como martelo ou uma chave de fenda, mas sim o aplicativo que usaremos para programar, a sintaxe da linguagem, principais atributos, aplicativos externos de auxílio, referências de outros programadores e até mesmo livros. 
+Portanto como uma Boa Prática em todo arquivo deixarei, na sua introdução, esse tipo de conteúdo para que você tenha uma base ou até mesmo um roteiro do que está lendo, assim consigo diminiuir a possibilidade de que você se perca e provavelmente você use como consulta.
+
+### Programação
+
+Esse campo tem outro significado... 
+Quero dizer que você deve sempre se preparar antes de programar, se você simplesmente programar você vai programar sem rumo nenhum, sem nenhum objetivo, sem sentido.
+Então para qualquer programador você deve ter em mente:
+
+1) Entender o que quer fazer ou o problema a ser resolvido;
+2) Objetivos e pontos importantes que pretende alcançar;
+3) Metas para chegar no seu objetivo, como um passo a passo;
+4) Metas para chegar no seu objetivo, como um passo a passo;
+5) Definir a fonte dos dados;
+6) Definir as variáveis que serão utilizadas e seus tipos;
+7) Definir como vai executar/processar esses dados para gerar algum resultado de saída;
+8) Definir ou filtrar os dados de saída;
+9) Testar o código que criou; e
+10) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve re-analisar e corrigi-lo voltando 3-5 etapas.
