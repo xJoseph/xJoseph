@@ -45,7 +45,7 @@ int ID_cliente = 1.5; //variável
 ```
 Não está exercendo a Boa Prática de programação, pois não usou um valor correto para o tipo da variável que definiu ou então está usando o tipo de variável errada.
 
-<b>Exemplo 4</b> - Exercendo a Boa Prática
+<b>Exemplo 4</b>
 ```javascript
 int ID_cliente = 1; //variável do numero do cliente
 ```
