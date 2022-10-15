@@ -14,7 +14,7 @@ Então... Aponte seu lápis, prepare a caneta-tinteiro, arrume seu banquinho, co
  <li><a href="#porque-aprender">Porque aprender?</a></li>
  <li><a href="#como-comecar-a-programar">Como começar a programar?</a>
 <ol style="list-style-type: decimal;">
- <li><a href="escolha-da-ide">Escolha da IDE</a></li>
+ <li><a href="#escolha-da-ide">Escolha da IDE</a></li>
 </ol>
 </li>
  <li><a href="#referencias">Referências</a></li>
