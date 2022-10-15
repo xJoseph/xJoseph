@@ -6,7 +6,7 @@ Então... Aponte seu lápis, prepare a caneta-tinteiro, arrume seu banquinho, co
 
 ## Conhecimentos Necessários
 
-Antes de partirmos para o conteúdo da linguagem devemos ter conhecimento de algumas instruções essenciais, como:
+Antes de partirmos para o conteúdo das linguagens de programação devemos tomar conhecimento de algumas instruções essenciais, como:
 
 - Boas Práticas
 - Ferramentas
