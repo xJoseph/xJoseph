@@ -10,7 +10,7 @@ Antes de partirmos para o conteúdo das linguagens de programação devemos toma
 
 - Boas Práticas
 - Ferramentas
-- Programação
+- Preparação
 
 ### Boas Práticas
 
@@ -54,7 +54,7 @@ Acho que agora ficou bem claro o que é uma Boa Prática na programação:
 Não são teoricamente ou fisicamente ferramentas, como martelo ou uma chave de fenda, mas sim o aplicativo que usaremos para programar, a sintaxe da linguagem, principais atributos, aplicativos externos de auxílio, referências de outros programadores e até mesmo livros. 
 Portanto como uma Boa Prática em todo arquivo deixarei, na sua introdução, esse tipo de conteúdo para que você tenha uma base ou até mesmo um roteiro do que está lendo, assim consigo diminiuir a possibilidade de que você se perca e provavelmente você use como consulta.
 
-### Programação
+### Preparação
 
 Esse campo tem outro significado... 
 
