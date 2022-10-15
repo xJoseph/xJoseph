@@ -20,7 +20,7 @@ A linguagem de programação C é uma ótima linguagem para programadores inicia
 
 ## Como começar a programar?
 
-Primeiramente precisamos definir qual IDE o utilizar... Mas o que é IDE?
+Primeiramente precisamos definir qual IDE utilizar... Mas o que é IDE?
 
 IDE, do inglês Integrated Development Environment ou Ambiente de Desenvolvimento Integrado, em português, é um programa de computador que reúne características e ferramentas de apoio ao desenvolvimento de software com o objetivo de agilizar este processo.
 
