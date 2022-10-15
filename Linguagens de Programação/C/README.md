@@ -47,4 +47,4 @@ Eu estarei utilizando a plataforma do VS Code
 
 ## Referência
 
- - [O que é IDE](https://www.redhat.com/pt-br/topics/middleware/what-is-ide)
+ - [O que é IDE - Red Hat Linux](https://www.redhat.com/pt-br/topics/middleware/what-is-ide)
