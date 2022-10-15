@@ -45,7 +45,9 @@ Existem diversos aplicativos para programar em C. Umas das melhores é a IDE VS 
 - XCode
 - KDevelop
 
-Eu estarei utilizando a plataforma do VS Code
+Eu estarei utilizando a plataforma do VS Code.
+
+<b> Agora mãos aos estudos </b>
 
 ## Referência
 
