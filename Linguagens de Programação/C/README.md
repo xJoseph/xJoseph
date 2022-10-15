@@ -13,3 +13,38 @@ Essa linguagem de programação foi inventada no começo dos anos 70 como uma li
 ## Para que ela serve?
 
 Resumidamente a linguagem C nos permite fazer diferentes aplicações, escritas em diferentes outras linguagens, que operam e se comunicam uma com a outra. A grande maioria das linguagens de programação tem suporte a programação em C. Em outras palavras podemos dizer que a linguagem C é um idioma mais padronizado e mais entendível entre as outras linguagens.
+
+## Porque aprender?
+
+A linguagem de programação C é uma ótima linguagem para programadores iniciantes. Essa linguagem influenciou a maioria das linguagens mais utilizadas hoje em dia. Depois de aprender C, você vai ver que ela tem muitos pontos em comum com Java, Javascript, Shell e PHP, além das que são variadas com o nome C-alguma coisa, como: C++, C#, Objective-C, etc.
+
+## Como começar a programar?
+
+Primeiramente precisamos definir qual IDE o utilizar... Mas o que é IDE?
+
+IDE, do inglês Integrated Development Environment ou Ambiente de Desenvolvimento Integrado, em português, é um programa de computador que reúne características e ferramentas de apoio ao desenvolvimento de software com o objetivo de agilizar este processo.
+
+IDEs ajudam os desenvolvedores a programar novas aplicações de forma rápida, já que os vários utilitários não precisam ser ajustados e integrados manualmente durante a configuração. Os desenvolvedores também não precisam passar horas aprendendo a usar cada uma das diferentes ferramentas, porque cada utilitário está localizado no mesmo workbench. Isso é especialmente útil quando os desenvolvedores são novos no projeto. Eles podem contar com o IDE para se atualizar em relação às ferramentas e fluxos de trabalho da equipe. Na verdade, o objetivo da maior parte das funcionalidades é economizar tempo: o preenchimento inteligente e a geração automática de código, por exemplo, eliminam a necessidade de digitar sequências inteiras.
+
+Outras funcionalidades comuns aos IDEs têm o objetivo de ajudar os desenvolvedores a organizar seu fluxo de trabalho e resolver problemas. Os IDEs analisam o código no momento em que está sendo escrito. Assim, bugs causados por erro humano são identificados em tempo real. Como todos os utilitários estão em uma única GUI, os desenvolvedores podem executar as tarefas sem precisar trocar de aplicação. A maioria dos IDEs também conta com destaque da sintaxe, usando indicadores visuais para diferenciá-la da gramática no editor de texto. Além disso, alguns IDEs incluem navegadores de classes e objetos, bem como diagramas de hierarquia de classes em determinadas linguagens.
+
+### Escolha da IDE 
+
+Existem diversos aplicativos para programar em C. Umas das melhores é a IDE VS Code da própria gigante Microsoft, mas deixarei uma relação para escolher o que melhor lhe agradar.
+
+- VS Code
+- CLion
+- Eclipse
+- Code:Blocks
+- Code Lite
+- NetBeans
+- Qt Creator
+- Dev C++
+- XCode
+- KDevelop
+
+Eu estarei utilizando a plataforma do VS Code
+
+## Referência
+
+ - [O que é IDE](https://www.redhat.com/pt-br/topics/middleware/what-is-ide)
