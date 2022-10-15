@@ -1,4 +1,6 @@
-# Olá, este é o conteúdo da Linguagem de Programação <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+# Olá, seja bem-vindo!
+
+### Este é o conteúdo da Linguagem de Programação <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
 Eu sou Israel Joseph e estou lhe trazendo, de forma simples e resumida, o "estudo" da Linguagem de programação C.
 
