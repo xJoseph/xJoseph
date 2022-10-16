@@ -93,9 +93,7 @@ Então para qualquer programador você deve ter em mente:
 
 Antes de você ir é preciso que saiba o que é Sintaxe, coisa que você já utiliza e vai ter que ter atenção ao programar em qualquer linguagem. Sintaxe é algo que estamos usando agora, você para ler e eu que deixei escrito, ou seja, está presente até mesmo no idioma que falamos. A sintaxe existe em todas as linguagens pois ela resume-se em ser um conjunto de regras, é uma coisa que delimita as formas de "usar" uma linguagem.
 
-Não podemos falar ou escrever no plural, em português, sem usar algumas regras, como adicionar as letras "s", "ns", "ões", etc, no que vamos falar ou escrever.
-
-Por exemplo:
+Exemplificando: Não podemos falar ou escrever no plural, em português, sem usar as regras do plural, que bem resumidamente é adicionar letras "s", "ns", "ões", etc, no que vamos falar ou escrever em plural.
 
 Existem <b>linguagem</b> de programção para <b>todo</b> <b>o</b> <b>tipo</b> de <b>aplicação</b> que você possa querer desenvolver ou analisar.
 
