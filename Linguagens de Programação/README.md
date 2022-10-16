@@ -97,12 +97,12 @@ Não podemos falar ou escrever no plural, em português, sem usar algumas regras
 
 Por exemplo:
 
-```javascript
+```
 Existem <b>linguagem</b> de programção para <b>todo</b> <b>o</b> <b>tipo</b> de <b>aplicação</b> que você possa querer desenvolver ou analisar.
 ```
 Sem usar a sintaxe da regra do plural.
 
-```javascript
+```
 Existem linguage<b>ns</b> de programção para todo<b>s</b> o<b>s</b> tipo<b>s</b> de aplicaç<b>ões</b> que você possa querer desenvolver ou analisar.
 ```
 Usando a sintaxe da regra do plural.
