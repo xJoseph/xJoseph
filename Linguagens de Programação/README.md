@@ -35,25 +35,25 @@ Depois que você leu a frase acima já deve ter entendido ou pensado no que deve
 Bom...  Boa prática, teoricamente, é a qual denomina técnicas identificadas como as melhores para realizar determinada tarefa, mas quem trabalha na área de programação sabe que não é bem assim. Vamos a alguns exemplos:
 
 <b>Exemplo 1</b>
-```javascript
+```c
 int nsqndaev = 1.5;
 ```
 Não está exercendo a Boa Prática de programação, pois não comentou o código, não deu um nome coerente à variável e não usou um valor correto para o tipo da variável que definiu ou então está usando o tipo de variável errada.
 
 <b>Exemplo 2</b>
-```javascript
+```c
 int nsqndaev = 1.5; //variável
 ```
 Não está exercendo a Boa Prática de programação, pois não deu um nome coerente a variável e não usou um valor correto para o tipo da variável que definiu ou então está usando o tipo de variável errada.
 
 <b>Exemplo 3</b>
-```javascript
+```c
 int ID_cliente = 1.5; //variável
 ```
 Não está exercendo a Boa Prática de programação, pois não usou um valor correto para o tipo da variável que definiu ou então está usando o tipo de variável errada.
 
 <b>Exemplo 4</b>
-```javascript
+```c
 int ID_cliente = 1; //variável do numero do cliente
 ```
 Está exercendo a Boa Prática de programação, pois deu um nome coerente para a variável, comentou o código, usou o valor correto para o tipo de varável que definiu.
