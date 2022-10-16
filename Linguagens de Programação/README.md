@@ -97,7 +97,7 @@ Então como programador você deve ter em mente:
 <a id="sintaxe"></a>
 ### O que é Sintaxe?
 
-Antes de você ir é preciso que saiba o que é Sintaxe, coisa que você já utiliza e vai ter que ter atenção ao programar em qualquer linguagem. Sintaxe é algo que estamos usando agora, você para ler e eu que deixei escrito, ou seja, está presente até mesmo no idioma que falamos. A sintaxe existe em todas as linguagens pois ela resume-se em ser um conjunto de regras, é uma coisa que delimita as formas de "usar" uma linguagem.
+Antes de você ir é preciso ainda que saiba o que é Sintaxe, coisa que você já utiliza e vai ter que ter atenção ao programar em qualquer linguagem. Sintaxe é algo que estamos usando agora, você para ler e eu que deixei escrito, ou seja, está presente até mesmo no idioma que falamos. A sintaxe existe em todas as linguagens pois ela resume-se em ser um conjunto de regras, é uma coisa que delimita as formas de "usar" uma linguagem.
 
 <b>Exemplificando</b>: Não podemos falar ou escrever no plural, em português, sem usar as regras do plural, que bem resumidamente é adicionar letras "s", "ns", "ões", etc, no que vamos falar ou escrever em plural.
 
