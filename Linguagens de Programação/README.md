@@ -103,4 +103,4 @@ Existem <b>linguagens</b> de programção para <b>todos</b> <b>os</b> <b>tipos</
 
 Conseguiu identificar a diferença? Fica até difícil de ler a frase sem o plural, o mesmo serve para as linguagens de programação todas elas possuem regras e métodos de utilização.
 
-Agora sim podemos partir para o próximo passo que é estudar as linguagens de programação.
+<b>Agora sim podemos partir para o próximo passo que é estudar as linguagens de programação.</b>
