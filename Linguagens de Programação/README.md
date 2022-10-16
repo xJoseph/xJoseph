@@ -8,9 +8,22 @@ Então... Aponte seu lápis, prepare a caneta-tinteiro, arrume seu banquinho, co
 
 Antes de partirmos para o conteúdo das linguagens de programação devemos tomar conhecimento de algumas instruções essenciais, como:
 
+- <a href="#instrucoes">Intruções do material</a>
 - <a href="#boas-praticas">Boas Práticas</a>
 - <a href="#ferramentas">Ferramentas</a>
 - <a href="#preparacao">Preparação</a>
+
+<a id="instrucoes"></a>
+## Instruções do material
+
+Todos arquivos de texto das linguagens de programação terão:
+
+- Instruções do que será utilizado(breve introdução);
+- Um sumário para facilitar ainda mais a sua leitura;
+- Em seu cabeçalho terá os comandos utilizados e suas funções;
+- Uma lógica de criação para posterior programação;
+- O código utilizado estará comentado; e
+- Exemplos.
 
 <a id="boas-praticas"></a>
 ### Boas Práticas
