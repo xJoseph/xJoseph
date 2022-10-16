@@ -15,7 +15,7 @@ Antes de partirmos para o conteúdo das linguagens de programação devemos toma
 - <a href="#sintaxe">O que é Sintaxe?</a>
 
 <a id="instrucoes"></a>
-## Instruções do material
+### Instruções do material
 
 Todos arquivos de texto das linguagens de programação terão:
 
