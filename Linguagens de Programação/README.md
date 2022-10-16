@@ -93,11 +93,13 @@ Então para qualquer programador você deve ter em mente:
 
 Antes de você ir é preciso que saiba o que é Sintaxe, coisa que você já utiliza e vai ter que ter atenção ao programar em qualquer linguagem. Sintaxe é algo que estamos usando agora, você para ler e eu que deixei escrito, ou seja, está presente até mesmo no idioma que falamos. A sintaxe existe em todas as linguagens pois ela resume-se em ser um conjunto de regras, é uma coisa que delimita as formas de "usar" uma linguagem.
 
-Exemplificando: Não podemos falar ou escrever no plural, em português, sem usar as regras do plural, que bem resumidamente é adicionar letras "s", "ns", "ões", etc, no que vamos falar ou escrever em plural.
+<b>Exemplificando</b>: Não podemos falar ou escrever no plural, em português, sem usar as regras do plural, que bem resumidamente é adicionar letras "s", "ns", "ões", etc, no que vamos falar ou escrever em plural.
 
-Existem <b>linguagem</b> de programção para <b>todo</b> <b>o</b> <b>tipo</b> de <b>aplicação</b> que você possa querer desenvolver ou analisar.
+Duas frases de exemplo para deixar mais claro o que quero dizer:
 
-Existem <b>linguagens</b> de programção para <b>todos</b> <b>os</b> <b>tipos</b> de <b>aplicações</b> que você possa querer desenvolver ou analisar.
+Existem <b>linguagem</b> de programção para <b>todo</b> <b>o</b> <b>tipo</b> de <b>aplicação</b> e <b>trabalho</b> que você possa querer desenvolver ou analisar.
+
+Existem <b>linguagens</b> de programção para <b>todos</b> <b>os</b> <b>tipos</b> de <b>aplicações</b> e <b>trabalhos</b> que você possa querer desenvolver ou analisar.
 
 Conseguiu identificar a diferença? Fica até difícil de ler a frase sem o plural, o mesmo serve para as linguagens de programação todas elas possuem regras e métodos de utilização.
 
