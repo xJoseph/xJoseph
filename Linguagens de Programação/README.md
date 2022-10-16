@@ -12,6 +12,7 @@ Antes de partirmos para o conteúdo das linguagens de programação devemos toma
 - <a href="#boas-praticas">Boas Práticas</a>
 - <a href="#ferramentas">Ferramentas</a>
 - <a href="#preparacao">Preparação</a>
+- <a href="#sintaxe">O que é Sintaxe?</a>
 
 <a id="instrucoes"></a>
 ## Instruções do material
@@ -86,3 +87,24 @@ Então para qualquer programador você deve ter em mente:
 7) Definir ou filtrar os dados de saída;
 8) Testar o código que criou; e
 9) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve re-analisar e corrigi-lo voltando 3-5 etapas.
+
+<a id="sintaxe"></a>
+### Sintaxe
+
+Antes de você ir é preciso que saiba o que é Sintaxe, coisa que utilizará em tudo que for programar e até mesmo no idioma que você fala existe essa "coisa". A sintaxe existe em todas as linguagens, tanto nas que falamos e nas de programação, pois ela resume-se em ser um conjunto de regras de uso, é uma coisa que delimita as formas de usar ou falar uma linguagem.
+
+Não podemos falar ou escrever no plural, em português, sem usar algumas regras, como adicionar as letras "s", "ns", "ões", etc, no que vamos falar ou escrever.
+
+Por exemplo:
+
+```javascript
+Existem linguagem de programção para todo o tipo de aplicação que você possa querer desenvolver ou analisar.
+```
+Sem usar a sintaxe da regra do plural.
+
+```javascript
+Existem linguagens de programção para todos os tipos de aplicações que você possa querer desenvolver ou analisar.
+```
+Usando a sintaxe da regra do plural.
+
+
