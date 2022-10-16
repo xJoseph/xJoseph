@@ -81,7 +81,7 @@ Portanto como uma Boa Prática, em todo arquivo deixarei esse tipo de conteúdo,
 <a id="preparacao"></a>
 ### Preparação
 
-Você deve sempre se preparar ou organizar antes de programar, se você simplesmente programar você vai programar sem rumo nenhum, sem nenhum objetivo, sem sentido.
+Você deve sempre se preparar ou se organizar antes de programar, se você simplesmente programar você vai programar sem rumo nenhum, sem nenhum objetivo, sem sentido.
 Então como programador você deve ter em mente:
 
 1) Entender o que quer fazer ou o problema a ser resolvido;
