@@ -99,11 +99,8 @@ Por exemplo:
 
 Existem <b>linguagem</b> de programção para <b>todo</b> <b>o</b> <b>tipo</b> de <b>aplicação</b> que você possa querer desenvolver ou analisar.
 
-Sem usar a sintaxe da regra do plural.
-
-
 Existem <b>linguagens</b> de programção para <b>todos</b> <b>os</b> <b>tipos</b> de <b>aplicações</b> que você possa querer desenvolver ou analisar.
 
-Usando a sintaxe da regra do plural.
+Conseguiu identificar a diferença? Fica até difícil de ler a frase sem o plural, o mesmo serve para as linguagens de programação todas elas possuem regras e métodos de utilização.
 
 
