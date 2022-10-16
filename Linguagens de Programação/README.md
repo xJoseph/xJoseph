@@ -8,10 +8,11 @@ Então... Aponte seu lápis, prepare a caneta-tinteiro, arrume seu banquinho, co
 
 Antes de partirmos para o conteúdo das linguagens de programação devemos tomar conhecimento de algumas instruções essenciais, como:
 
-- Boas Práticas
-- Ferramentas
-- Preparação
+- <a href="#boas-praticas">Boas Práticas</a>
+- <a href="#ferramentas">Ferramentas</a>
+- <a href="#preparacao">Preparação</a>
 
+<a id="boas-praticas"></a>
 ### Boas Práticas
 
 Em todos os arquivos serão expostos: um arquivo de leitura(readme), as mídias utilizadas, os comandos utilizados e ainda toda a programação estará comentada para facilitar o seu entendimento, legal né?
@@ -49,11 +50,13 @@ Acho que agora ficou bem claro o que é uma Boa Prática na programação:
 - Usar os tipos de variáveis corretos para os valores que iram receber; e
 - Atribuição correta dos valores para as variáveis.
 
+<a id="ferramentas"></a>
 ### Ferramentas
 
 Não são teoricamente ou fisicamente ferramentas, como martelo ou uma chave de fenda, mas sim o aplicativo que usaremos para programar, a sintaxe da linguagem, principais atributos, aplicativos externos de auxílio, referências de outros programadores e até mesmo livros. 
 Portanto como uma Boa Prática em todo arquivo deixarei, na sua introdução, esse tipo de conteúdo para que você tenha uma base ou até mesmo um roteiro do que está lendo, assim consigo diminiuir a possibilidade de que você se perca e provavelmente você use como consulta.
 
+<a id="preparacao"></a>
 ### Preparação
 
 Esse campo tem outro significado... 
