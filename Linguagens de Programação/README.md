@@ -101,7 +101,7 @@ Existem <b>linguagem</b> de programção para <b>todo</b> <b>o</b> <b>tipo</b> d
 
 Sem usar a sintaxe da regra do plural.
 
-Existem linguage<b>ns</b> de programção para todo<b>s</b> o<b>s</b> tipo<b>s</b> de aplicaç<b>ões</b> que você possa querer desenvolver ou analisar.
+Existem <b>linguagens</b> de programção para <b>todos</b> <b>os</b> <b>tipos</b> de <b>aplicações</b> que você possa querer desenvolver ou analisar.
 
 Usando a sintaxe da regra do plural.
 
