@@ -89,7 +89,7 @@ Então para qualquer programador você deve ter em mente:
 9) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve re-analisar e corrigi-lo voltando 3-5 etapas.
 
 <a id="sintaxe"></a>
-### Sintaxe
+### O que é Sintaxe?
 
 Antes de você ir é preciso que saiba o que é Sintaxe, coisa que utilizará em tudo que for programar e até mesmo no idioma que você fala existe essa "coisa". A sintaxe existe em todas as linguagens, tanto nas que falamos e nas de programação, pois ela resume-se em ser um conjunto de regras de uso, é uma coisa que delimita as formas de usar ou falar uma linguagem.
 
