@@ -32,7 +32,7 @@ Todos arquivos de texto das linguagens de programação terão:
 Em todos os arquivos serão expostos: um arquivo de leitura(readme), as mídias utilizadas, os comandos utilizados e ainda toda a programação estará comentada para facilitar o seu entendimento, legal né?
 
 Depois que você leu a frase acima já deve ter entendido ou pensado no que deve ser uma boa prática né?
-Bom...  Boa prática, teoricamente, é a qual denomina técnicas identificadas como as melhores para realizar determinada tarefa, mas quem trabalha na área de programação sabe que não é bem assim. Vamos a alguns exemplos:
+Bom...  Boa prática, teoricamente, é a qual denomina técnicas identificadas como as melhores para realizar determinada tarefa, mas quem trabalha na área de programação sabe que não é exatamente assim. Vamos a alguns exemplos:
 
 <b>Exemplo 1</b>
 ```c
@@ -58,25 +58,31 @@ int ID_cliente = 1; //variável do numero do cliente
 ```
 Está exercendo a Boa Prática de programação, pois deu um nome coerente para a variável, comentou o código, usou o valor correto para o tipo de varável que definiu.
 
-Acho que agora ficou bem claro o que é uma Boa Prática na programação:
+Acho que agora ficou mais claro o que é uma Boa Prática na programação:
 - Ter o código comentado;
 - Dar nomes coerentes as variáveis;
 - Usar os tipos de variáveis corretos para os valores que iram receber; e
 - Atribuição correta dos valores para as variáveis.
+Isso ajudará os outros desenvolvedores a entenderem o seu código e até para fazer reanálises no código.
 
 <a id="ferramentas"></a>
 ### Ferramentas
 
-Não são teoricamente ou fisicamente ferramentas, como martelo ou uma chave de fenda, mas sim o aplicativo que usaremos para programar, a sintaxe da linguagem, principais atributos, aplicativos externos de auxílio, referências de outros programadores e até mesmo livros. 
-Portanto como uma Boa Prática em todo arquivo deixarei, na sua introdução, esse tipo de conteúdo para que você tenha uma base ou até mesmo um roteiro do que está lendo, assim consigo diminiuir a possibilidade de que você se perca e provavelmente você use como consulta.
+Não são teoricamente ou fisicamente ferramentas, como martelo ou uma chave de fenda, mas sim os métodos, como:
+
+- Aplicativo que usaremos para programar;
+- A sintaxe da linguagem;
+- Aplicativos externos de auxílio;
+- Referências; e 
+- Livros.
+
+Portanto como uma Boa Prática, em todo arquivo deixarei esse tipo de conteúdo, para que você tenha uma base ou até mesmo um roteiro do que está lendo, assim consigo diminiuir a possibilidade de que você se perca e provavelmente você use como consulta.
 
 <a id="preparacao"></a>
 ### Preparação
 
-Esse campo tem outro significado... 
-
-Quero dizer que você deve sempre se preparar antes de programar, se você simplesmente programar você vai programar sem rumo nenhum, sem nenhum objetivo, sem sentido.
-Então para qualquer programador você deve ter em mente:
+Você deve sempre se preparar ou organizar antes de programar, se você simplesmente programar você vai programar sem rumo nenhum, sem nenhum objetivo, sem sentido.
+Então como programador você deve ter em mente:
 
 1) Entender o que quer fazer ou o problema a ser resolvido;
 2) Objetivos e pontos importantes que pretende alcançar;
@@ -86,7 +92,7 @@ Então para qualquer programador você deve ter em mente:
 6) Definir como vai executar/processar esses dados para gerar algum resultado de saída;
 7) Definir ou filtrar os dados de saída;
 8) Testar o código que criou; e
-9) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve re-analisar e corrigi-lo voltando 3-5 etapas.
+9) Se ainda não alcançou todos os objetivos ou o seu código esteja apresentando algum erro (bug), o que é mais comum, você deve reanalisar e corrigi-lo voltando 3-5 etapas.
 
 <a id="sintaxe"></a>
 ### O que é Sintaxe?
