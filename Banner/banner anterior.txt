@@ -1,0 +1,106 @@
+
+<div class="banner_space">
+    <div class="banner_arrows_space">
+        <div class="arrows left_arrow">
+            <i class="fa fa-arrow-left" aria-hidden="true" />
+        </div>
+        <div class="arrows right_arrow">
+            <i class="fa fa-arrow-right" aria-hidden="true" />
+        </div>
+    </div>
+    <div class="banner_items_space">
+        <div class="items">
+            <div class="banner_items_active">Slide 1</div>
+            <div class="banner_items">Slide 2</div>
+            <div class="banner_items">Slide 3</div>
+            <div class="banner_items">Slide 4</div>
+            <div class="banner_items">Slide 5</div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .banner_space {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 810px;
+    }
+
+    .banner_arrows_space {
+        display: flex;
+        align-items: center;
+        z-index: 2;
+    }
+
+    .arrows {
+        display: flex;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        width: 50px;
+        height: 50px;
+        background: linear-gradient(315deg, #94949b, #afafb8);
+        box-shadow: 5px 5px 20px #737378, -5px -5px 20px #d5d5e0;
+        border-radius: 100%;
+        font-size: 2rem;
+        color: rgb(92, 90, 90);
+    }
+
+    .arrows:hover {
+        transition: all 0.7s;
+        cursor: pointer;
+        color: rgba(153, 227, 93);
+        background: linear-gradient(315deg, #316b89, #3a7fa3);
+        box-shadow: 5px 5px 20px #26536a, -5px -5px 20px #469bc6;
+    }
+
+    .left_arrow {
+        left: 0px;
+        margin-left: 10px;
+    }
+
+    .right_arrow {
+        right: 0px;
+        margin-right: 10px;
+    }
+
+    .banner_items_space {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .items {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+    }
+
+    .banner_items {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(158, 158, 158);
+    }
+
+    .banner_items_active {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(158, 158, 158);
+        z-index: 1;
+    }
+</style>
