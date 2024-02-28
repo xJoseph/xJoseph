@@ -1,12 +1,10 @@
 
 # Olá, eu sou Israel Joseph! 👋
-Amante da programação e com grande vontade de aprender/ensinar.
-
 
 ## 🚀 Sobre mim
-Eu sou um desenvolvedor full-stack com quase 8 anos de conhecimento na área.
+Sou desenvolvedor full-stack com quase 8 anos de conhecimento na área.
 
-Iniciei meus estudos no desenvolvimento Web com apenas 14 anos quando obtive uma bolsa integral na Associação Atlética Banco do Brasil (AABB). Com esta bolsa optei pela realização do curso de Designer Gráfico e Web Designer na escola PROCEMP, finalizando-os no ano de 2016. Não muito tempo depois iniciei o curso de Desenvolvimento de Jogos e Aplicativos na GAMESCOLA, isso ainda enquanto estudava Técnico em Administração junto ao Ensino Médio.
+Iniciei meus estudos no desenvolvimento Web com 14 anos quando obtive uma bolsa integral na Associação Atlética Banco do Brasil (AABB). Com esta bolsa optei pela realização do curso de Designer Gráfico e Web Designer na escola PROCEMP, finalizando-os no início de 2016. Não muito tempo depois iniciei o curso de Desenvolvimento de Jogos e Aplicativos na GAMESCOLA, enquanto estudava Técnico em Administração junto ao Ensino Médio.
 
 Na GAMESCOLA tive a oportunidade de ministrar aulas, devido ao meu desempenho nas aulas e pelo conhecimento que já possuia na área de informática, atuando como professor de Informática Básica e de Desenvolvimento de Jogos e Aplicativos.
 
