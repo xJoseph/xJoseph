@@ -40,4 +40,4 @@ I consider myself an innovative and dedicated professional who thrives on challe
 ![Dev quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![Visitors count](https://visitcount.itsvg.in/api?id=xJoseph&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xJoseph&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
