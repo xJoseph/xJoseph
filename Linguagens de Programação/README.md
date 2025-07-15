@@ -59,7 +59,7 @@ int ID_cliente = 1; //variável do numero do cliente
 Está exercendo a Boa Prática de programação, pois deu um nome coerente para a variável, comentou o código, usou o valor correto para o tipo de varável que definiu.
 
 Acho que agora ficou mais claro o que é uma Boa Prática na programação:
-- Ter o código comentado;
+- Ter o código comentado (caso seja algo complexo);
 - Dar nomes coerentes as variáveis;
 - Usar os tipos de variáveis corretos para os valores que iram receber; e
 - Atribuição correta dos valores para as variáveis.
